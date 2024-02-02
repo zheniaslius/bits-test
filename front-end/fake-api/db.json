@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "id": "1", "name": "Blended Sienna", "brand": "Coretac Premium", "availability": true, "photo": "https://www.allorashop.com/wp-content/uploads/2022/10/Small-Cosy-Bedroom-2.jpg" },
+    { "id": "2", "name": "Blended Sienna", "brand": "Coretac Premium", "availability": true, "photo": "https://www.allorashop.com/wp-content/uploads/2022/10/Small-Cosy-Bedroom-2.jpg" },
+    { "id": "3", "name": "Blended Sienna", "brand": "Coretac Premium", "availability": true, "photo": "https://www.allorashop.com/wp-content/uploads/2022/10/Small-Cosy-Bedroom-2.jpg" },
+    { "id": "4", "name": "Blended Sienna", "brand": "Coretac Premium", "availability": true, "photo": "https://www.allorashop.com/wp-content/uploads/2022/10/Small-Cosy-Bedroom-2.jpg" },
+    { "id": "5", "name": "Blended Sienna", "brand": "Coretac Premium", "availability": true, "photo": "https://www.allorashop.com/wp-content/uploads/2022/10/Small-Cosy-Bedroom-2.jpg" },
+    { "id": "6", "name": "Blended Sienna", "brand": "Coretac Premium", "availability": true, "photo": "https://www.allorashop.com/wp-content/uploads/2022/10/Small-Cosy-Bedroom-2.jpg" }
+  ]
+}
